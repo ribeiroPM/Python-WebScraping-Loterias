@@ -75,7 +75,7 @@ while True:
 			resultados[inf_concurso[0]].append(resultado)
 			resultados[inf_concurso[0]].append(inf_concurso[1])
 
-		# Sai do loop ao chegar no concurso inicial
+		# Sai do loop ao chegar no primeiro consurso realizado
 		if inf_concurso[0] == "1":
 			break
 
